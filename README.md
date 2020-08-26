@@ -16,7 +16,7 @@ Appliances can be controlled via switches on a control board or a bluetooth mobi
 
 (iv)Plug2
 
-Hardware profiling of fan is done in the code thus even in case of low or over voltage of AC main line, Fan speed will remain constant for a given setting.
+Hardware profiling of fan is done in the code so even in case of low or over voltage of AC main line, Fan speed will remain constant for a given setting.
 User specific setting of fan speed,led light brightness can be enabled from bluetooth app. 
 
 In the starting, stored i.e. last values of Fan speed and Led Intensity will be used for control. 
